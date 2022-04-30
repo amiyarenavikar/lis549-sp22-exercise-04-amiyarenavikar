@@ -115,3 +115,23 @@ header {
     background-color: #e0e0e0;
     line-height: 1.5;
 }
+
+/* Footer styling */
+footer {
+    color: white;
+    background-color: #3E1305;
+}
+
+footer a {
+    color: white;
+    text-decoration-line: none;
+}
+
+footer p {
+    margin: 0;
+    line-height: 1.25;
+}
+
+footer p:last-child {
+    padding-top: 8px;
+}
