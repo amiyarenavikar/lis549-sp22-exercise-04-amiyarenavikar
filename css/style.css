@@ -89,3 +89,23 @@ header {
     font-style: italic;
     font-size: 1.25rem;
 }
+
+/* Menu styling */
+#menu {
+    background-color: #f0f0f0;
+}
+
+#menu dt {
+    font-size: 125%;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+#menu p {
+    margin: 0;
+}
+
+#menu img {
+    height: 200px;
+    border-radius: 15px;
+}
