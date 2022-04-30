@@ -5,7 +5,8 @@ body {
 }
 
 /* General fonts & spacing for headings */
-h1, h2 {
+h1,
+h2 {
     font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 300;
     margin-top: 0;
@@ -38,7 +39,8 @@ h2 {
 }
 
 /* Paragraphs and descriptive lists spacing */
-p, dl {
+p,
+dl {
     margin-top: 0;
     margin-bottom: 1rem;
 }
