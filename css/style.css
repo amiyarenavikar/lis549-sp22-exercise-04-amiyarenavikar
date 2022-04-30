@@ -37,3 +37,39 @@ h2 {
     padding: 1rem 1rem 1rem 1rem;
 }
 
+/* Paragraphs and descriptive lists spacing */
+p, dl {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+/* Nav bar styling */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: white;
+    background-color: #2C96BF;
+    padding: .5rem .5rem .5rem 1rem;
+
+}
+
+nav ul {
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 1rem 1rem 0;
+}
+
+nav a {
+    color: black;
+    text-decoration-line: none
+}
+
+nav a:hover {
+    color: #F0F0F0;
+    border-bottom: .8rem solid #F0F0F0;
+    transition: 0.25s ease-out;
+  }
